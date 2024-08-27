@@ -1,3 +1,6 @@
 .conteiner__articles{
   margin-top: 1.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
