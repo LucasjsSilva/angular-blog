@@ -3,7 +3,7 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-front-desk',
   templateUrl: './front-desk.component.html',
-  styleUrls: ['./front-desk.component.css']
+  styleUrls: ['./front-desk.component.css', './front-desk.responsive.component.css']
 })
 export class FrontDeskComponent implements OnInit {
 
